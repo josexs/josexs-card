@@ -1,0 +1,13 @@
+{
+  "name": "josexs",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "bin": "./cli.js",
+  "keywords": [],
+  "author": "JoseXS",
+  "license": "ISC",
+  "dependencies": {
+    "prettyjson": "^1.2.5"
+  }
+}
